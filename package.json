@@ -1,0 +1,24 @@
+{
+  "name": "hoverpopuplink",
+  "version": "1.0.0",
+  "description": "A React component for displaying metadata previews of URLs on hover",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jay-lchicken/HoverPopupLink.git"
+  },
+  "keywords": [
+    "Popup",
+    "Link"
+  ],
+  "author": "Lai Hong Yu",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/jay-lchicken/HoverPopupLink/issues"
+  },
+  "homepage": "https://github.com/jay-lchicken/HoverPopupLink#readme"
+}
